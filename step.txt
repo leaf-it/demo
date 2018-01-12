@@ -86,6 +86,9 @@
             </dependency>
         2.boot启动类中添加@EnableHystrixDashboard
         3.启动查看EnableHystrixDashboard地址：http://ip:端口/hystrix，其在stream处添加http://ip:端口/hystrix.steam,点击monitor即可查看。
+     6.集成Hystrix Turbine
+        1.项目pom.xml添加
+
 
 
 

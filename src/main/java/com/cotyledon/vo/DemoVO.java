@@ -1,5 +1,8 @@
 package com.cotyledon.vo;
 
+import org.springframework.stereotype.Component;
+
+
 public class DemoVO {
     private  String authCode;
     private String authDesc;
